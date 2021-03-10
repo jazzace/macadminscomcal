@@ -10,7 +10,7 @@
 | [MacDeployment Conference](https://macdeployment.ca) | Online | June 2021 | Synchronous • Details TBA | TBA |
 | [MacDevOpsYVR](https://mdoyvr.com) | Online | 9-11 June 2021 | Synchronous • 3 consecutive days | CAD$75-500 |
 | [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc) | Online | June 2021 | Asynchronous • New sessions available daily | Free (?) |
-| [Mac Admins Conference](https://macadmins.psu.edu) | Online | June-July 2021 | Synchronous • Weekly “Campfire Sessions” | TBA |
+| [Mac Admins Campfire Sessions](https://macadmins.psu.edu) | Online | 3 June - 29 July 2021 | Synchronous • Thursdays, 1:00-3:00 p.m. EDT (UTC-4) except 1 July | Free with Registration |
 | [MacTech Conference](https://conference.mactech.com) | TBA | 3rd Quarter 2021 or later | TBA | TBA |
 | [MacAD.UK](https://macad.uk) | The London Film Museum | Autumn 2021 | TBA (usually 2 consecutive days) | £495-595 |
 | [Jamf Nation User Conference](https://www.jamf.com/events/jamf-nation-user-conference/) | Online | 19-21 October 2021 | Synchronous • 3 consecutive days | Free (?) |
